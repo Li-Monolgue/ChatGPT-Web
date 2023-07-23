@@ -4,6 +4,16 @@
 
 更多功能：[chatgpt-web-plus](https://github.com/Chanzhaoyu/chatgpt-web-plus)
 
+###  包月 Railway 注册
+
+每月 5 美元的使用费：[railway.app](https://railway.app?referralCode=Ho8Y84)
+
+- Automagic 构建和部署
+- 每个服务 8 GB 内存/8 个 vCPU
+- 包含 SSL 的域
+- 公关部署和单存储库支持
+- 社区支持
+
 ###  使用 Railway 部署
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yytmgc)
